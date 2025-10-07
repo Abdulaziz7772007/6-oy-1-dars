@@ -35,7 +35,7 @@
   border: 2px;
 }
 .header-button:hover {
-  background-color: darkgreen;
+  background-color: rgb(100, 0, 0);
 }
 .header-link {
   font-weight: 700;
