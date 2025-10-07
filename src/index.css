@@ -34,6 +34,9 @@
   border-radius: 8px;
   border: 2px;
 }
+.header-button:hover {
+  background-color: darkgreen;
+}
 .header-link {
   font-weight: 700;
   font-size: 15px;
@@ -93,4 +96,8 @@
   line-height: 150%;
   font-weight: 700;
   height: 21px;
+  
+}
+.footer-nav:hover {
+  color: #0EB4C1;
 }
